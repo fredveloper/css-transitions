@@ -1,0 +1,9 @@
+a {
+    font-size: 100px;
+}
+
+a:hover {
+    color: #000;
+    transition-duration: 1s;
+    transition-timing-function: ease-in-out;
+}
